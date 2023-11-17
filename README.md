@@ -12,5 +12,7 @@ Contains HTML and CSS files for JNL 221's final project.
 8. In final.css, add styles for an `img` element: a `float` of right, a `margin-right` of 5% and a `margin-left` of 5%. Go to your browser to see this change, and drag your browser to different sizes to see what this does.  
 9. In final.html, add appropriate text in your hed and dek for your final project story. Make sure it reflects what is newsworthy about your story, similar to a dataviz finding.  
 10. Change or add one thing to your CSS that you'd like your project to have. It cannot be just a color or border; it must be something we have not done together in class. Add a comment in your code (hightlight the text then hit command+? to comment something out) to explain what you added.  
- 
-TODO in-class: In the head of final.html, under the appropriate comment, add the Google font 'Poppins' to your project. (We haven't learned how to do this so don't worry about it for homework. We will go over in class, after the break.)  
+   
+TODO in-class: In the head of final.html, under the appropriate comment, add the Google font 'Poppins' to your project. (We haven't learned how to do this so don't worry about it for homework. We will go over in class, after the break.)   
+
+To submit: Upload `final.html`, `final.css`, and `syr.png` to your own repository. Like you did for `basic.html`, insert the appropriate link for your final.html webpage into our 'github accounts' Google Doc: https://docs.google.com/document/d/1bjyo7MdN8ORCXo55WihXbK81KfBFgZAs3oOlbiXH8is/edit.  
