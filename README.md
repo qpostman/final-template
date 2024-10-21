@@ -1,7 +1,7 @@
 # 221-final-template
 Contains HTML and CSS files for JNL 221's final project.  
   
-## Due 4/7: Follow the below directions to start your final project template. Remember to have final.html open in a browser to see your changes taking place. Use the reference sheet and Google as a resource.  
+## Due 11/10: Follow the below directions to start your final project template. Remember to have final.html open in a browser to see your changes taking place. Use the reference sheet and Google as a resource.  
 1. In the `head` of final.html, under the appropriate comment, add a `link` tag to connect your HTML file to the included CSS file, final.css.  
 2. In final.css, add styles for a `p` element: a `font-family` of 'Times New Roman' (with a default of serif), and a `font-size` of 20px. Look at the `style` section of the reference sheet to figure out how to add the `font-family` properly.  
 3. In final.html, give the first `section` element a class of 'header'.  
